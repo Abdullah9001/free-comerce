@@ -67,7 +67,7 @@
   {
     "id": 6,
     "name": "Elegant Silver Earrings",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Jewelry", "Women"],
     "image": "https://images.pexels.com/photos/8306528/pexels-photo-8306528.jpeg",
     "description":
@@ -92,7 +92,7 @@
   {
     "id": 8,
     "name": "Gourmet Chocolate Assortment",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Food", "Gift"],
     "image":
       "https://images.pexels.com/photos/1352296/pexels-photo-1352296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -118,7 +118,7 @@
   {
     "id": 10,
     "name": "Cozy Cashmere Sweater",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Fashion", "Winter"],
     "image":
       "https://images.pexels.com/photos/5710043/pexels-photo-5710043.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -144,7 +144,7 @@
   {
     "id": 12,
     "name": "Designer Leather Wallet",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Fashion", "Accessories"],
     "image":
       "https://images.pexels.com/photos/4386178/pexels-photo-4386178.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -157,7 +157,7 @@
   {
     "id": 13,
     "name": "Smart Home Security System",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Home", "Security"],
     "image":
       "https://images.pexels.com/photos/7876185/pexels-photo-7876185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -183,7 +183,7 @@
   {
     "id": 15,
     "name": "Organic Green Tea Sampler",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Tea", "Health"],
     "image":
       "https://images.pexels.com/photos/1793035/pexels-photo-1793035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -209,7 +209,7 @@
   {
     "id": 17,
     "name": "Wooden Chess Set",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Games", "Hobby"],
     "image":
       "https://images.pexels.com/photos/7644275/pexels-photo-7644275.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -235,7 +235,7 @@
   {
     "id": 19,
     "name": "Portable Bluetooth Speaker",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Speaker", "Tech"],
     "image":
       "https://images.pexels.com/photos/1279365/pexels-photo-1279365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -248,7 +248,7 @@
   {
     "id": 20,
     "name": "Handcrafted Ceramic Vase",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Home", "Decor"],
     "image":
       "https://images.pexels.com/photos/7302796/pexels-photo-7302796.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -274,7 +274,7 @@
   {
     "id": 22,
     "name": "Vintage Vinyl Record Player",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Music", "Retro"],
     "image":
       "https://images.pexels.com/photos/1653090/pexels-photo-1653090.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -287,7 +287,7 @@
   {
     "id": 23,
     "name": "Scented Soy Candle Set",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Home", "Candles"],
     "image":
       "https://images.pexels.com/photos/5825575/pexels-photo-5825575.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -313,7 +313,7 @@
   {
     "id": 25,
     "name": "Digital Drawing Tablet",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Art", "Tech"],
     "image":
       "https://images.pexels.com/photos/301792/pexels-photo-301792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -326,7 +326,7 @@
   {
     "id": 26,
     "name": "Luxury Leather Briefcase",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Fashion", "Accessories"],
     "image":
       "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -352,7 +352,7 @@
   {
     "id": 28,
     "name": "Gourmet Coffee Beans",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Food", "Coffee"],
     "image":
       "https://images.pexels.com/photos/872903/pexels-photo-872903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -378,7 +378,7 @@
   {
     "id": 30,
     "name": "Vintage Leather Armchair",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Home", "Furniture"],
     "image":
       "https://images.pexels.com/photos/7045772/pexels-photo-7045772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -391,7 +391,7 @@
   {
     "id": 31,
     "name": "Sustainable Bamboo Toothbrush Set",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Beauty", "Eco-Friendly"],
     "image":
       "https://images.pexels.com/photos/6621364/pexels-photo-6621364.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -417,7 +417,7 @@
   {
     "id": 33,
     "name": "Yoga Mat with Carrying Strap",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Fitness", "Yoga"],
     "image":
       "https://images.pexels.com/photos/6740753/pexels-photo-6740753.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -443,7 +443,7 @@
   {
     "id": 35,
     "name": "Natural Wood Serving Tray",
-    "onSale": true,
+    "onSale": false,
     "tags": ["Home", "Kitchen"],
     "image":
       "https://images.pexels.com/photos/8027652/pexels-photo-8027652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
