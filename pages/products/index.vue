@@ -108,24 +108,28 @@ export default {
     }
   },
   computed: {
-    filteredProducts() {
-      if (!this.search || !this.products) return this.products || []
-      return this.products.filter((p) => {
-        const s = this.search.toLowerCase()
-        const n = p.name.toLowerCase()
-        const price = p.price.toString()
-        const sprice = p.salePrice?.toString() || ''
-        const r = p.rating.toString()
+  filteredProducts() {
+    if (!this.search || !this.products) return this.products || [];
 
-        return (
-          n.includes(s) ||
-          price.includes(s) ||
-          sprice.includes(s) ||
-          r.includes(s)
-        )
-      })
-    },
+    const searchLower = this.search.toLowerCase();
+
+    return this.products.filter((p) => {
+      const nameLower = p.name.toLowerCase();
+      const price = p.price.toString();
+      const salePrice = p.selPrice?.toString() || '';
+      const rating = p.ratings.toString();
+
+      // Check if any of the product attributes match the search query
+      return (
+        nameLower.includes(searchLower) ||
+        price.includes(searchLower) ||
+        salePrice.includes(searchLower) ||
+        rating.includes(searchLower) ||
+        p.tags.some((tag) => tag.toLowerCase().includes(searchLower))
+      );
+    });
   },
+},
 }
 </script>
 
