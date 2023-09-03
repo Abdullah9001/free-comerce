@@ -21,6 +21,7 @@
               <v-list-item
                 v-for="(c, i) in categories"
                 :key="`category${i}`"
+                @click="selectCategory(c.name)"
                 link
                 ><v-list-item-avatar>
                   <v-img :src="c.image"></v-img>
@@ -105,31 +106,45 @@ export default {
       products: null,
       categories: null,
       search: null,
+      selectedCategory: null, 
     }
   },
   computed: {
-  filteredProducts() {
-    if (!this.search || !this.products) return this.products || [];
+    filteredProducts() {
+      if (!this.products) return [];
 
-    const searchLower = this.search.toLowerCase();
+      const searchLower = this.search ? this.search.toLowerCase() : '';
+      const categoryFilter = this.selectedCategory
+        ? this.selectedCategory.toLowerCase()
+        : '';
 
-    return this.products.filter((p) => {
-      const nameLower = p.name.toLowerCase();
-      const price = p.price.toString();
-      const salePrice = p.selPrice?.toString() || '';
-      const rating = p.ratings.toString();
+      return this.products.filter((p) => {
+        const nameLower = p.name.toLowerCase();
+        const price = p.price.toString();
+        const salePrice = p.selPrice?.toString() || '';
+        const rating = p.ratings.toString();
 
-      // Check if any of the product attributes match the search query
-      return (
-        nameLower.includes(searchLower) ||
-        price.includes(searchLower) ||
-        salePrice.includes(searchLower) ||
-        rating.includes(searchLower) ||
-        p.tags.some((tag) => tag.toLowerCase().includes(searchLower))
-      );
-    });
+  
+        const categoryMatch =
+          !categoryFilter || p.tags.some((tag) => tag.toLowerCase().includes(categoryFilter));
+
+        const searchMatch =
+          !searchLower ||
+          nameLower.includes(searchLower) ||
+          price.includes(searchLower) ||
+          salePrice.includes(searchLower) ||
+          rating.includes(searchLower);
+
+        return categoryMatch && searchMatch;
+      });
+    },
   },
-},
+  methods: {
+    selectCategory(categoryName) {
+
+      this.selectedCategory = categoryName;
+    },
+  },
 }
 </script>
 
