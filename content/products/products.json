@@ -1,456 +1,456 @@
 [
   {
-    id: 1,
-    name: "Silky Smooth Beats",
-    onSale: true,
-    tags: ["Headphone", "People"],
-    image:
+    "id": 1,
+    "name": "Silky Smooth Beats",
+    "onSale": true,
+    "tags": ["Headphone", "People"],
+    "image":
       "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 20000,
-    selPrice: null,
-    ratings: 4,
+    "price": 20000,
+    "selPrice": null,
+    "ratings": 4
   },
   {
-    id: 2,
-    name: "Lady Luck Is Smiling",
-    onSale: false,
-    tags: ["Perfume", "women"],
-    image:
+    "id": 2,
+    "name": "Lady Luck Is Smiling",
+    "onSale": false,
+    "tags": ["Perfume", "women"],
+    "image":
       "https://images.pexels.com/photos/1961792/pexels-photo-1961792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 3500,
-    selPrice: 3000,
-    ratings: 4.5,
+    "price": 3500,
+    "selPrice": 3000,
+    "ratings": 4.5
   },
   {
-    id: 3,
-    name: "Green Nike Zoom",
-    onSale: false,
-    tags: ["Nike", "Men"],
-    image:
+    "id": 3,
+    "name": "Green Nike Zoom",
+    "onSale": false,
+    "tags": ["Nike", "Men"],
+    "image":
       "https://images.pexels.com/photos/1456705/pexels-photo-1456705.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 10500,
-    selPrice: 9000,
-    ratings: 4.5,
+    "price": 10500,
+    "selPrice": 9000,
+    "ratings": 4.5
   },
   {
-    id: 4,
-    name: "New Home Living Room Set",
-    onSale: true,
-    tags: ["Home", "Pretty"],
-    image:
+    "id": 4,
+    "name": "New Home Living Room Set",
+    "onSale": true,
+    "tags": ["Home", "Pretty"],
+    "image":
       "https://images.pexels.com/photos/6947283/pexels-photo-6947283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 70000,
-    selPrice: null,
-    ratings: 4,
+    "price": 70000,
+    "selPrice": null,
+    "ratings": 4
   },
   {
-    id: 5,
-    name: "Classic Man Watch",
-    onSale: true,
-    tags: ["Watch", "Men"],
-    image:
+    "id": 5,
+    "name": "Classic Man Watch",
+    "onSale": true,
+    "tags": ["Watch", "Men"],
+    "image":
       "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 20000,
-    selPrice: 15000,
-    ratings: 3.5,
+    "price": 20000,
+    "selPrice": 15000,
+    "ratings": 3.5
   },
   {
-    id: 6,
-    name: "Elegant Silver Earrings",
-    onSale: true,
-    tags: ["Jewelry", "Women"],
-    image: "https://images.pexels.com/photos/8306528/pexels-photo-8306528.jpeg",
-    description:
+    "id": 6,
+    "name": "Elegant Silver Earrings",
+    "onSale": true,
+    "tags": ["Jewelry", "Women"],
+    "image": "https://images.pexels.com/photos/8306528/pexels-photo-8306528.jpeg",
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 2500,
-    selPrice: 2000,
-    ratings: 4.2,
+    "price": 2500,
+    "selPrice": 2000,
+    "ratings": 4.2
   },
   {
-    id: 7,
-    name: "Stylish Leather Backpack",
-    onSale: false,
-    tags: ["Fashion", "Unisex"],
-    image:
+    "id": 7,
+    "name": "Stylish Leather Backpack",
+    "onSale": false,
+    "tags": ["Fashion", "Unisex"],
+    "image":
       "https://images.pexels.com/photos/755822/pexels-photo-755822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 4500,
-    selPrice: null,
-    ratings: 4.8,
+    "price": 4500,
+    "selPrice": null,
+    "ratings": 4.8
   },
   {
-    id: 8,
-    name: "Gourmet Chocolate Assortment",
-    onSale: true,
-    tags: ["Food", "Gift"],
-    image:
+    "id": 8,
+    "name": "Gourmet Chocolate Assortment",
+    "onSale": true,
+    "tags": ["Food", "Gift"],
+    "image":
       "https://images.pexels.com/photos/1352296/pexels-photo-1352296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 3000,
-    selPrice: 2500,
-    ratings: 4.9,
+    "price": 3000,
+    "selPrice": 2500,
+    "ratings": 4.9
   },
   {
-    id: 9,
-    name: "Professional DSLR Camera",
-    onSale: false,
-    tags: ["Camera", "Photography"],
-    image:
+    "id": 9,
+    "name": "Professional DSLR Camera",
+    "onSale": false,
+    "tags": ["Camera", "Photography"],
+    "image":
       "https://images.pexels.com/photos/3802602/pexels-photo-3802602.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 15000,
-    selPrice: null,
-    ratings: 4.7,
+    "price": 15000,
+    "selPrice": null,
+    "ratings": 4.7
   },
   {
-    id: 10,
-    name: "Cozy Cashmere Sweater",
-    onSale: true,
-    tags: ["Fashion", "Winter"],
-    image:
+    "id": 10,
+    "name": "Cozy Cashmere Sweater",
+    "onSale": true,
+    "tags": ["Fashion", "Winter"],
+    "image":
       "https://images.pexels.com/photos/5710043/pexels-photo-5710043.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 6000,
-    selPrice: 4800,
-    ratings: 4.3,
+    "price": 6000,
+    "selPrice": 4800,
+    "ratings": 4.3
   },
   {
-    id: 11,
-    name: "Wireless Noise-Canceling Headphones",
-    onSale: false,
-    tags: ["Headphone", "Tech"],
-    image:
+    "id": 11,
+    "name": "Wireless Noise-Canceling Headphones",
+    "onSale": false,
+    "tags": ["Headphone", "Tech"],
+    "image":
       "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 8000,
-    selPrice: null,
-    ratings: 4.6,
+    "price": 8000,
+    "selPrice": null,
+    "ratings": 4.6
   },
   {
-    id: 12,
-    name: "Designer Leather Wallet",
-    onSale: true,
-    tags: ["Fashion", "Accessories"],
-    image:
+    "id": 12,
+    "name": "Designer Leather Wallet",
+    "onSale": true,
+    "tags": ["Fashion", "Accessories"],
+    "image":
       "https://images.pexels.com/photos/4386178/pexels-photo-4386178.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 3500,
-    selPrice: 2800,
-    ratings: 4.4,
+    "price": 3500,
+    "selPrice": 2800,
+    "ratings": 4.4
   },
   {
-    id: 13,
-    name: "Smart Home Security System",
-    onSale: true,
-    tags: ["Home", "Security"],
-    image:
+    "id": 13,
+    "name": "Smart Home Security System",
+    "onSale": true,
+    "tags": ["Home", "Security"],
+    "image":
       "https://images.pexels.com/photos/7876185/pexels-photo-7876185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 12000,
-    selPrice: 10000,
-    ratings: 4.7,
+    "price": 12000,
+    "selPrice": 10000,
+    "ratings": 4.7
   },
   {
-    id: 14,
-    name: "Luxury Fountain Pen",
-    onSale: false,
-    tags: ["Stationery", "Writing"],
-    image:
+    "id": 14,
+    "name": "Luxury Fountain Pen",
+    "onSale": false,
+    "tags": ["Stationery", "Writing"],
+    "image":
       "https://images.pexels.com/photos/5239793/pexels-photo-5239793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 2500,
-    selPrice: null,
-    ratings: 4.9,
+    "price": 2500,
+    "selPrice": null,
+    "ratings": 4.9
   },
   {
-    id: 15,
-    name: "Organic Green Tea Sampler",
-    onSale: true,
-    tags: ["Tea", "Health"],
-    image:
+    "id": 15,
+    "name": "Organic Green Tea Sampler",
+    "onSale": true,
+    "tags": ["Tea", "Health"],
+    "image":
       "https://images.pexels.com/photos/1793035/pexels-photo-1793035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 1200,
-    selPrice: 1000,
-    ratings: 4.5,
+    "price": 1200,
+    "selPrice": 1000,
+    "ratings": 4.5
   },
   {
-    id: 16,
-    name: "Classic Leather Oxford Shoes",
-    onSale: false,
-    tags: ["Footwear", "Men"],
-    image:
+    "id": 16,
+    "name": "Classic Leather Oxford Shoes",
+    "onSale": false,
+    "tags": ["Footwear", "Men"],
+    "image":
       "https://images.pexels.com/photos/6766308/pexels-photo-6766308.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 7500,
-    selPrice: null,
-    ratings: 4.2,
+    "price": 7500,
+    "selPrice": null,
+    "ratings": 4.2
   },
   {
-    id: 17,
-    name: "Wooden Chess Set",
-    onSale: true,
-    tags: ["Games", "Hobby"],
-    image:
+    "id": 17,
+    "name": "Wooden Chess Set",
+    "onSale": true,
+    "tags": ["Games", "Hobby"],
+    "image":
       "https://images.pexels.com/photos/7644275/pexels-photo-7644275.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 3500,
-    selPrice: 2800,
-    ratings: 4.6,
+    "price": 3500,
+    "selPrice": 2800,
+    "ratings": 4.6
   },
   {
-    id: 18,
-    name: "Designer Sunglasses",
-    onSale: false,
-    tags: ["Fashion", "Accessories"],
-    image:
+    "id": 18,
+    "name": "Designer Sunglasses",
+    "onSale": false,
+    "tags": ["Fashion", "Accessories"],
+    "image":
       "https://images.pexels.com/photos/18092127/pexels-photo-18092127/free-photo-of-retro-sunglasses-on-table.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 4500,
-    selPrice: null,
-    ratings: 4.3,
+    "price": 4500,
+    "selPrice": null,
+    "ratings": 4.3
   },
   {
-    id: 19,
-    name: "Portable Bluetooth Speaker",
-    onSale: true,
-    tags: ["Speaker", "Tech"],
-    image:
+    "id": 19,
+    "name": "Portable Bluetooth Speaker",
+    "onSale": true,
+    "tags": ["Speaker", "Tech"],
+    "image":
       "https://images.pexels.com/photos/1279365/pexels-photo-1279365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 2500,
-    selPrice: 2000,
-    ratings: 4.8,
+    "price": 2500,
+    "selPrice": 2000,
+    "ratings": 4.8
   },
   {
-    id: 20,
-    name: "Handcrafted Ceramic Vase",
-    onSale: true,
-    tags: ["Home", "Decor"],
-    image:
+    "id": 20,
+    "name": "Handcrafted Ceramic Vase",
+    "onSale": true,
+    "tags": ["Home", "Decor"],
+    "image":
       "https://images.pexels.com/photos/7302796/pexels-photo-7302796.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 1800,
-    selPrice: 1500,
-    ratings: 4.7,
+    "price": 1800,
+    "selPrice": 1500,
+    "ratings": 4.7
   },
   {
-    id: 21,
-    name: "Fitness Tracker Watch",
-    onSale: false,
-    tags: ["Watch", "Fitness"],
-    image:
+    "id": 21,
+    "name": "Fitness Tracker Watch",
+    "onSale": false,
+    "tags": ["Watch", "Fitness"],
+    "image":
       "https://images.pexels.com/photos/437036/pexels-photo-437036.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 3500,
-    selPrice: null,
-    ratings: 4.5,
+    "price": 3500,
+    "selPrice": null,
+    "ratings": 4.5
   },
   {
-    id: 22,
-    name: "Vintage Vinyl Record Player",
-    onSale: true,
-    tags: ["Music", "Retro"],
-    image:
+    "id": 22,
+    "name": "Vintage Vinyl Record Player",
+    "onSale": true,
+    "tags": ["Music", "Retro"],
+    "image":
       "https://images.pexels.com/photos/1653090/pexels-photo-1653090.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 5500,
-    selPrice: 4500,
-    ratings: 4.4,
+    "price": 5500,
+    "selPrice": 4500,
+    "ratings": 4.4
   },
   {
-    id: 23,
-    name: "Scented Soy Candle Set",
-    onSale: true,
-    tags: ["Home", "Candles"],
-    image:
+    "id": 23,
+    "name": "Scented Soy Candle Set",
+    "onSale": true,
+    "tags": ["Home", "Candles"],
+    "image":
       "https://images.pexels.com/photos/5825575/pexels-photo-5825575.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 1800,
-    selPrice: 1500,
-    ratings: 4.9,
+    "price": 1800,
+    "selPrice": 1500,
+    "ratings": 4.9
   },
   {
-    id: 24,
-    name: "Professional Chef's Knife Set",
-    onSale: false,
-    tags: ["Kitchen", "Cooking"],
-    image:
+    "id": 24,
+    "name": "Professional Chef's Knife Set",
+    "onSale": false,
+    "tags": ["Kitchen", "Cooking"],
+    "image":
       "https://images.pexels.com/photos/4992644/pexels-photo-4992644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 7500,
-    selPrice: null,
-    ratings: 4.7,
+    "price": 7500,
+    "selPrice": null,
+    "ratings": 4.7
   },
   {
-    id: 25,
-    name: "Digital Drawing Tablet",
-    onSale: true,
-    tags: ["Art", "Tech"],
-    image:
+    "id": 25,
+    "name": "Digital Drawing Tablet",
+    "onSale": true,
+    "tags": ["Art", "Tech"],
+    "image":
       "https://images.pexels.com/photos/301792/pexels-photo-301792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 6000,
-    selPrice: 4800,
-    ratings: 4.3,
+    "price": 6000,
+    "selPrice": 4800,
+    "ratings": 4.3
   },
   {
-    id: 26,
-    name: "Luxury Leather Briefcase",
-    onSale: true,
-    tags: ["Fashion", "Accessories"],
-    image:
+    "id": 26,
+    "name": "Luxury Leather Briefcase",
+    "onSale": true,
+    "tags": ["Fashion", "Accessories"],
+    "image":
       "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 5500,
-    selPrice: 4500,
-    ratings: 4.5,
+    "price": 5500,
+    "selPrice": 4500,
+    "ratings": 4.5
   },
   {
-    id: 27,
-    name: "Organic Bath Bombs Set",
-    onSale: false,
-    tags: ["Beauty", "Bath"],
-    image:
+    "id": 27,
+    "name": "Organic Bath Bombs Set",
+    "onSale": false,
+    "tags": ["Beauty", "Bath"],
+    "image":
       "https://images.pexels.com/photos/6620861/pexels-photo-6620861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 1800,
-    selPrice: null,
-    ratings: 4.8,
+    "price": 1800,
+    "selPrice": null,
+    "ratings": 4.8
   },
   {
-    id: 28,
-    name: "Gourmet Coffee Beans",
-    onSale: true,
-    tags: ["Food", "Coffee"],
-    image:
+    "id": 28,
+    "name": "Gourmet Coffee Beans",
+    "onSale": true,
+    "tags": ["Food", "Coffee"],
+    "image":
       "https://images.pexels.com/photos/872903/pexels-photo-872903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 2500,
-    selPrice: 2000,
-    ratings: 4.9,
+    "price": 2500,
+    "selPrice": 2000,
+    "ratings": 4.9
   },
   {
-    id: 29,
-    name: "Smartphone Gimbal Stabilizer",
-    onSale: false,
-    tags: ["Tech", "Photography"],
-    image:
+    "id": 29,
+    "name": "Smartphone Gimbal Stabilizer",
+    "onSale": false,
+    "tags": ["Tech", "Photography"],
+    "image":
       "https://images.pexels.com/photos/5741879/pexels-photo-5741879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 3500,
-    selPrice: null,
-    ratings: 4.7,
+    "price": 3500,
+    "selPrice": null,
+    "ratings": 4.7
   },
   {
-    id: 30,
-    name: "Vintage Leather Armchair",
-    onSale: true,
-    tags: ["Home", "Furniture"],
-    image:
+    "id": 30,
+    "name": "Vintage Leather Armchair",
+    "onSale": true,
+    "tags": ["Home", "Furniture"],
+    "image":
       "https://images.pexels.com/photos/7045772/pexels-photo-7045772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 7500,
-    selPrice: 6500,
-    ratings: 4.6,
+    "price": 7500,
+    "selPrice": 6500,
+    "ratings": 4.6
   },
   {
-    id: 31,
-    name: "Sustainable Bamboo Toothbrush Set",
-    onSale: true,
-    tags: ["Beauty", "Eco-Friendly"],
-    image:
+    "id": 31,
+    "name": "Sustainable Bamboo Toothbrush Set",
+    "onSale": true,
+    "tags": ["Beauty", "Eco-Friendly"],
+    "image":
       "https://images.pexels.com/photos/6621364/pexels-photo-6621364.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 1200,
-    selPrice: 1000,
-    ratings: 4.5,
+    "price": 1200,
+    "selPrice": 1000,
+    "ratings": 4.5
   },
   {
-    id: 32,
-    name: "Vintage Pocket Watch",
-    onSale: false,
-    tags: ["Watch", "Retro"],
-    image:
+    "id": 32,
+    "name": "Vintage Pocket Watch",
+    "onSale": false,
+    "tags": ["Watch", "Retro"],
+    "image":
       "https://images.pexels.com/photos/295885/pexels-photo-295885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 2500,
-    selPrice: null,
-    ratings: 4.3,
+    "price": 2500,
+    "selPrice": null,
+    "ratings": 4.3
   },
   {
-    id: 33,
-    name: "Yoga Mat with Carrying Strap",
-    onSale: true,
-    tags: ["Fitness", "Yoga"],
-    image:
+    "id": 33,
+    "name": "Yoga Mat with Carrying Strap",
+    "onSale": true,
+    "tags": ["Fitness", "Yoga"],
+    "image":
       "https://images.pexels.com/photos/6740753/pexels-photo-6740753.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 1800,
-    selPrice: 1500,
-    ratings: 4.8,
+    "price": 1800,
+    "selPrice": 1500,
+    "ratings": 4.8
   },
   {
-    id: 34,
-    name: "Retro Arcade Game Machine",
-    onSale: false,
-    tags: ["Games", "Retro"],
-    image:
+    "id": 34,
+    "name": "Retro Arcade Game Machine",
+    "onSale": false,
+    "tags": ["Games", "Retro"],
+    "image":
       "https://images.pexels.com/photos/918802/pexels-photo-918802.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 5500,
-    selPrice: null,
-    ratings: 4.7,
+    "price": 5500,
+    "selPrice": null,
+    "ratings": 4.7
   },
   {
-    id: 35,
-    name: "Natural Wood Serving Tray",
-    onSale: true,
-    tags: ["Home", "Kitchen"],
-    image:
+    "id": 35,
+    "name": "Natural Wood Serving Tray",
+    "onSale": true,
+    "tags": ["Home", "Kitchen"],
+    "image":
       "https://images.pexels.com/photos/8027652/pexels-photo-8027652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    description:
+    "description":
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, ut.",
-    price: 3500,
-    selPrice: 2800,
-    ratings: 4.4,
-  },
+    "price": 3500,
+    "selPrice": 2800,
+    "ratings": 4.4
+  }
 ]
